@@ -1,0 +1,15 @@
+# Virtual Environment
+gemini2.0/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Environment variables
+.env
